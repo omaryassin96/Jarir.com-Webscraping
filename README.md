@@ -11,7 +11,7 @@ The team (Omar & Hagar) is going to **scrape** their website and make a smart we
 - **Cleaning the Data:**
 
       Progress: 05%
-      - The values of each column should be categorized to standard words to prepare for the choosing algorithm.
+      - The values of each column should be categorized into the standard words to be prepared for the algorithm.
 - **Creating an Adaptive Laptop Choosing Algorithm:**
 
       Progress: 10% 
