@@ -7,7 +7,6 @@ The team (Omar & Hagar) is going to **scrape** their website and make a smart we
 - **Scraping from [Jarir's website](https://www.jarir.com/sa-en/computers-&-tablets/laptops.html):**
 
       Progress: 70%
-      
       Facing a problem in pressing the js "Load more" button.
 - **Cleaning the Data:**
 
