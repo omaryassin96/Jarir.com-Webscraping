@@ -1,5 +1,5 @@
 # jarir_scrape
-Jarir is a Saudi store for selling computers and office supplies.
+Jarir is a Saudi store for selling computers and office supplies, and we are going to scrape it and make a smart buying guide based on the products data scraped.
 
 # Idea
 - Create a code to scrape Jarir laptops + clean data. (50%)
