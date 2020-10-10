@@ -6,16 +6,16 @@ The team (Omar & Hagar) is going to **scrape** their website and make a smart we
 # Detailed Idea
 - **Create a code to scrape Jarir laptops from [their website](https://www.jarir.com/sa-en/computers-&-tablets/laptops.html):**
 
-      70% Done - Facing a problem in pressing JS "Load more" buttons
+      70% Done - Facing a problem in pressing the js "Load more" button.
 - **Clean data:**
 
-      05% Done - The values of each column should be categorized to standard words to prepare for the choosing algorithm
+      05% Done - The values of each column should be categorized to standard words to prepare for the choosing algorithm.
 - **Create an algorithm for filtering the laptops depending on questions asked to a customer:**
 
-      10% Done - Some question were collected from random people and from our main compititor: choosist.com
+      10% Done - Some question were collected from random people and from our main compititor: choosist.com.
 - **Create a website for this algorithm:**
 
-      00% Done - Will begin with Hagar as soon as the algorithm is ready
+      00% Done - Will begin with Hagar as soon as the algorithm is ready.
 
 # Future Expansion
 - Expand the scraping code to include all Saudi online stores.
