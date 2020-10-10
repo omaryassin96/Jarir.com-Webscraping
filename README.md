@@ -6,16 +6,24 @@ The team (Omar & Hagar) is going to **scrape** their website and make a smart we
 # Detailed Idea:
 - **Scraping from [Jarir's website](https://www.jarir.com/sa-en/computers-&-tablets/laptops.html):**
 
-      70% Done - Facing a problem in pressing the js "Load more" button.
+      Progress: 70%
+      
+      Facing a problem in pressing the js "Load more" button.
 - **Cleaning the Data:**
 
-      05% Done - The values of each column should be categorized to standard words to prepare for the choosing algorithm.
+      Progress: 05%
+      
+      The values of each column should be categorized to standard words to prepare for the choosing algorithm.
 - **Creating an Adaptive Laptop Choosing Algorithm:**
 
-      10% Done - Some question were collected from random people and from our main compititor: choosist.com.
+      Progress: 10% 
+      
+      Some question were collected from random people and from our main compititor: choosist.com.
 - **Createing a Website:**
 
-      00% Done - Will begin with Hagar as soon as the algorithm is ready.
+      Progress: 00%
+      
+      Will begin with Hagar as soon as the algorithm is ready.
 
 # Future Expansions:
 - Expand the scraping code to include all Saudi online stores.
