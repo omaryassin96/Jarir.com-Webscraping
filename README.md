@@ -5,6 +5,7 @@ The team (Omar & a front end designer) is going to **scrape** their website and 
 
 # Detailed Idea:
 - **Scraping from [Jarir's website](https://www.jarir.com/sa-en/computers-&-tablets/laptops.html):**
+
 [See results](https://github.com/omaryassin96/Jarir.com-Webscraping/blob/master/1_Scraping/jarir_scraping_results_example.csv)
 
       Progress: 70%
