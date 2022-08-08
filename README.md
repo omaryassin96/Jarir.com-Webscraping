@@ -6,10 +6,10 @@ The team (Omar & a front end designer) is going to **scrape** their website and 
 # Detailed Idea:
 - **Scraping from [Jarir's website](https://www.jarir.com/sa-en/computers-&-tablets/laptops.html):**
 
-[See results](https://github.com/omaryassin96/Jarir.com-Webscraping/blob/master/1_Scraping/jarir_scraping_results_example.csv)
+[Click to see results](1_Scraping/jarir_scraping_results_example.csv)
 
       Progress: 70%
-      - The HTML scraping is succesful (See).
+      - The HTML scraping is succesful (Please see results).
       - Currently facing a problem in pressing the js "Load more" button automatically.
 - **Cleaning the Data:**
 
