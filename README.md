@@ -28,5 +28,3 @@ The team (Omar & a front end designer) is going to **scrape** their website and 
 - Expand the scraping code to include all Saudi online stores.
 - Improve the algorithm more (more inputs; such as processors details from intel website  + more smart choices).
 - Improve website appearance and interactivity.
-
-Bye
